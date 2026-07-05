@@ -1,0 +1,15 @@
+.gradle/
+build/
+app/build/
+local.properties
+.idea/workspace.xml
+*.iml
+ui screens/
+.idea/
+.gradle/
+build/
+app/build/
+*.iml
+app/google-services.json
+HabitSeed_Gamification_Implementation_Plan.md
+HabitSeed_Codex_Integration_Plan.md
